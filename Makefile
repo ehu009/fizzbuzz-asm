@@ -16,4 +16,4 @@ fizzbuzz: fizzbuzz.S main
 
 
 clean:
-	rm -rf *_pp.s sieve sieve.exe main.s
+	rm -rf *_pp.s fizzbuzz fizzbuzz.exe main.s
